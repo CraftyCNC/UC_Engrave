@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("UCToolTable")>
+<Assembly: AssemblyTitle("UCEngrave")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("CraftyCNC")>
-<Assembly: AssemblyProduct("ToolTable")>
-<Assembly: AssemblyCopyright("Copyright © 2020")>
+<Assembly: AssemblyProduct("UC_Engrave")>
+<Assembly: AssemblyCopyright("Copyright © 2021")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
